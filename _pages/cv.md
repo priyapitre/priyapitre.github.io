@@ -7,58 +7,37 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* On the PhD market! 
+* M.S. in Computer Science, Virginia Tech, 2023-2025 (expected)
+  * Relevant Courses: Advanced Topics in Data (Learning with Graphs), Advanced Topics in HCI, Machine Learning I, II
+* B.Tech in Computer Science, College of Engineering, Pune, 2018-2022 (GPA: 8.16, Major GPA: 8.72)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Software Developer, Finiq Consulting Pvt Ltd, Pune, India, July 2022 - Apr 2023
+  * Worked with 4 multinational banks including Bank of America 
+  * Capabilities: Fix-to-fix connectivity in Java, developed Derivatives platform for BofA end-to-end 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research
+  * Natural Language Processing, Large Language Models, Argumentation, Retrieval Augmented Generation, Reasoning in LLMs. 
+* Programming Languages
+  * Python
+  * Java
+* AI Frameworks/Libraries
+  * PyTorch, Tensorflow, keras, sk-learn, OpenCV, nltk, spaCy, etc
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Detailed publications and ongoing projects in the respective tabs! 
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: EMNLP 2022; EMNLP 2023; CONLL 2025; ACM IUI 2025
