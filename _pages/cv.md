@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* On the PhD market! 
+
 * M.S. in Computer Science, Virginia Tech, 2023-2025 (expected, GPA: 3.91/4)
   * Relevant Courses: Advanced Topics in Data (Learning with Graphs), Advanced Topics in HCI, Machine Learning I, II
 * B.Tech in Computer Science, College of Engineering, Pune, 2018-2022 (GPA: 8.16/10, Major GPA: 8.72/10)
