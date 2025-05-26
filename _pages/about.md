@@ -17,5 +17,8 @@ I am always excited to discuss anything, please reach out to me at priyapitre@vt
 
 
 ## News
+* **[2025.6]** Started my PhD in CS Thesis at Virginia Tech!
+* **[2025.5]** Our paper CONSENSAGENT got accepted to ACL 2025 (findings)!  
+* **[2025.5]** Graduated with MS CS from Virginia Tech!  
 * **[2023.8]** Started my MS CS Thesis at Virginia Tech!  
 * **[2023.7]** Our paper on ArgAnalysis35K accepted and published to the main conference of ACL 2023! 
