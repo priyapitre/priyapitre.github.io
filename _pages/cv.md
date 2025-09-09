@@ -10,7 +10,8 @@ redirect_from:
 Education
 ======
 
-* M.S. in Computer Science, Virginia Tech, 2023-2025 (expected, GPA: 3.91/4)
+*  Ph.D in Computer Science, Virginia Tech, 2025- Present 
+*  M.S. in Computer Science, Virginia Tech, 2023-2025 (GPA: 3.91/4)
   * Relevant Courses: Advanced Topics in Data (Learning with Graphs), Advanced Topics in HCI, Machine Learning I, II
 * B.Tech in Computer Science, College of Engineering, Pune, 2018-2022 (GPA: 8.16/10, Major GPA: 8.72/10)
 
@@ -40,4 +41,4 @@ Publications
 
 Service and leadership
 ======
-* Reviewer: EMNLP 2022; EMNLP 2023; CONLL 2025; ACM IUI 2025
+* Reviewer: ACL 2025, EMNLP 2022, 2023, 2024; CONLL 2025; IUI 2024, 2025, 2026
