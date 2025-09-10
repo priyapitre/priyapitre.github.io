@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can also [download my full resume as a PDF](/resume.pdf).
+You can also [download my full resume as a PDF](/_pages/resume.pdf).
 
 Education
 ======
