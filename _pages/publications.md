@@ -7,8 +7,11 @@ author_profile: true
 
 Publications
 ======
+* Rituparna Datta, Zihan Guan, Baltazar Espinoza, Yiqi Su, **Priya Pitre**, Srini Venkatramanan, Naren Ramakrishnan, Anil Vullikanti "Agentic Framework for Epidemiological Modeling". International Conference on Machine Learning 2026
 
-* **Priya Pitre**, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, Xuan Wang. 2025. "Towards Real-World Simulations and Multi-Agent Consensus without Ground Truth". Under Review at ICLR 2026
+* **Priya Pitre**, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, Xuan Wang. 2025. "A Diagnostic Study of Multi-Agent LLMs for Real-World Debates. International Conference on Machine Learning 2026
+  
+* Gaurav Srivastava, Aafiya Shamshad Hussain, Zhenyu Bi, Swastik Roy, **Priya Pitre**, Meng Lu, Morteza Ziyadi, and Xuan Wang. "BeyondBench: Contamination-Resistant Evaluation of Reasoning in Language Models." In The Fourteenth International Conference on Learning Representations 2026.
 
 * **Priya Pitre**, Naren Ramakrishnan, and Xuan Wang. 2025. "CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation". In Findings of the Association for Computational Linguistics: ACL 2025, pages 22112–22133, Vienna, Austria. Association for Computational Linguistics.
 
