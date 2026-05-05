@@ -23,8 +23,11 @@ I am always excited to discuss anything, please reach out to me at priyapitre@vt
 
 
 ## News
+* **[2026.5]** Two non-archival papers (first authors) accepted into ACL workshops (GEM and ArgMining)! 
+* **[2026.5]** Two papers (inc one first author) accepted into ICML 2026! 
+* **[2026.3]** One paper accepted into ICLR 2026!
 * **[2025.6]** Started my PhD in CS Thesis at Virginia Tech!
-* **[2025.5]** Our paper CONSENSAGENT got accepted to ACL 2025 (findings)!  
+* **[2025.5]** Our paper CONSENSAGENT (first author) got accepted to ACL 2025 (findings)!  
 * **[2025.5]** Graduated with MS CS from Virginia Tech!  
 * **[2023.8]** Started my MS CS Thesis at Virginia Tech!  
-* **[2023.7]** Our paper on ArgAnalysis35K accepted and published to the main conference of ACL 2023! 
+* **[2023.7]** Our paper on ArgAnalysis35K (co-first author) accepted and published to the main conference of ACL 2023! 
