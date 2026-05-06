@@ -7,6 +7,7 @@ author_profile: true
 
 Work Experience
 ======
+* AI Engineering Summer Intern, Capital One, San Jose, CA, June 2026 - Aug 2026
 * Software Developer, Finiq Consulting Pvt Ltd, Pune, India, July 2022 - Apr 2023
   * Worked with 4 multinational banks including Bank of America 
   * Capabilities: Fix-to-fix connectivity in Java, developed Derivatives platform for BofA end-to-end 
