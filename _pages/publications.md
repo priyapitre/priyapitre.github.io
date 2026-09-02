@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 ======
+* **Priya Pitre**, Omkar Joshi, Timon Ziegenbein, Henning Wachsmuth  "ReFeedGraph: Graph-Grounded Reusable Feedback for Debate Improvement". The 2026 Conference on Empirical Methods in Natural Language Processing
+
+* Jun Hou, **Priya Pitre**, Yi Fang, Xuan Wang, “EDGE: Error Dependency Graph-Guided Multi-Error Attribution in Multi-Agent LLM Systems”, in Proc. Findings of the 2026 Conference on Empirical Methods in Natural Language Processing 2026
+
 * Rituparna Datta, Zihan Guan, Baltazar Espinoza, Yiqi Su, **Priya Pitre**, Srini Venkatramanan, Naren Ramakrishnan, Anil Vullikanti "Agentic Framework for Epidemiological Modeling". International Conference on Machine Learning 2026
 
 * **Priya Pitre**, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, Xuan Wang. 2025. "A Diagnostic Study of Multi-Agent LLMs for Real-World Debates. International Conference on Machine Learning 2026
