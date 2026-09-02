@@ -18,6 +18,9 @@ I am always excited to discuss anything, please reach out to me at priyapitre@vt
 
 
 ## News
+* **[2026.8]** Two papers (inc. one first author) accepted to EMNLP! 
+* **[2026.7]** I was a panelist in the [Argmining workshop](https://argmining-org.github.io/2026/index.html#panel)
+* **[2026.6]** Started an internship as an AI Engineer at Capital One! 
 * **[2026.5]** Two non-archival papers (first authors) accepted into ACL workshops (GEM and ArgMining)! 
 * **[2026.5]** Two papers (inc one first author) accepted into ICML 2026! 
 * **[2026.3]** One paper accepted into ICLR 2026!
