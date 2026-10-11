@@ -18,6 +18,9 @@ I am always excited to discuss anything, please reach out to me at priyapitre@vt
 
 
 ## News
+* **[2026.10]** Watch out for my spotlight on the Sanghani Center Website (link to be out soon)!  
+* **[2026.10]** Watch out for my talk on Voxel51 on Oct 22! 
+* **[2026.10]** I am an organizer for [ArgMining 2027](https://argmining-org.github.io/2027/). More details out soon! 
 * **[2026.8]** Two papers (inc. one first author) accepted to EMNLP! 
 * **[2026.7]** I was a panelist in the [Argmining workshop](https://argmining-org.github.io/2026/index.html#panel)
 * **[2026.6]** Started an internship as an AI Engineer at Capital One! 
